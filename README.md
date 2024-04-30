@@ -1,64 +1,18 @@
+# 💫 About Me:
+- 👀 I’m interested in exploring this amazing world of world<br>- 🌱 I’m currently a computer science student<br>- 💞️ I’m looking for get more opportunities and Knowledge in this digital era.<br>- 📫 How to reach me ...email:- @sukhe3608@gmail.com
 
-<div align="center">
-  <img height="200" src="C:\Users\HP\Desktop\sukhe3608\my_pic.png"  />
-</div>
 
-###
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sukhe3608&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sukhe3608&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhe3608&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br clear="both">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sukhe3608&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h1 align="center">Hey 👋👋 What's Up !</h1>
+---
+[![](https://visitcount.itsvg.in/api?id=sukhe3608&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<p align="left">My name is Sukhwinder Singh and I am from India.</p>
-
-###
-
-<br clear="both">
-
-<h2 align="center">About Me</h2>
-
-###
-
-<p align="left">- 👀 I’m interested in exploring this amazing world of world<br>- 🌱 I’m currently a computer science student <br>- 💞️ I’m looking for get more opportunities and Knowledge in this digital era. <br>- 📫 How to reach me ...email:- @sukhe3608@gmail.com</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sukhe3608&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sukhe3608&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="143" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Sukhe3608/Sukhe3608/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="www.linkedin.com/in/sukhwinder-singh-252827223" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="sukhe3608@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
