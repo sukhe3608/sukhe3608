@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://raw.githubusercontent.com/sukhe3608/sukhe3608/main/my_pic.png" alt="img" width="500" height="500">
+<img src="https://raw.githubusercontent.com/sukhe3608/sukhe3608/main/my_pic.png" alt="img" width="200" height="200" style="border-radius: 50%;">
 - 👀 I’m interested in exploring this amazing world of world<br>- 🌱 I’m currently a computer science student<br>- 💞️ I’m looking for get more opportunities and Knowledge in this digital era.<br>- 📫 How to reach me ...email:- @sukhe3608@gmail.com
 
 
